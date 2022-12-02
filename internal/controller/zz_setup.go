@@ -10,7 +10,6 @@ import (
 	"github.com/upbound/upjet/pkg/controller"
 
 	providerconfig "github.com/nest000/provider-alks/internal/controller/providerconfig"
-
 )
 
 // Setup creates all controllers with the supplied logger and adds them to
